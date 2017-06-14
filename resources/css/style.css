@@ -63,3 +63,27 @@ nav li {
   padding: 1.5rem 5rem;
   margin-top: 10rem;
 }
+
+.services {
+  justify-content: center;
+}
+
+.service {
+  height: 8rem;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 3rem;
+}
+
+.service .title {
+  text-align: center;
+}
+
+.exam img {
+  width: 3.5rem;
+}
+
+.fitting img,
+.delivery img {
+  width: 5rem;
+}
